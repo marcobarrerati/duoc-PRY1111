@@ -1,4 +1,3 @@
-20210322
 # Diseño y Gestión de Requisitos
 ## Conceptos clave
 |||
